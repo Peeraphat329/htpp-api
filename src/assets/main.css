@@ -32,8 +32,12 @@ a,
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 0 2rem;
-    /* background-image: url(src/images/background.png); */
+
   }
+}
+
+.background-image {
+  background-image: url('/src/images/background.png');
 }
 
 .hero {

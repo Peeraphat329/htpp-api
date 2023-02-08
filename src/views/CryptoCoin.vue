@@ -49,7 +49,7 @@ function lordCrypto() {
     text-align: center;
     border: 1px solid rgb(235, 10, 36);
     text-decoration: none;
-      color: white;
+      color: rgb(0, 0, 0);
   }
 
 h1{
